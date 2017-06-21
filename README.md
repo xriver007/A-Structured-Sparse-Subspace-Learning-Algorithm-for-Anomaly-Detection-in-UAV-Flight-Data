@@ -19,3 +19,6 @@ The code in Matlab will be open soon.
 SSSLAD was introduced in the journal paper:
 
 Y. F. He , Y Peng, S. J. Wang, D. T. Liu, P. H. W Leong. A Structural Sparse Subspace Learning algorithm for Anomaly Detection in UAV Flight Data. IEEE Trans. Instrum. Meas. Ari. 2017. (Under Review)
+
+Abstract：
+To be continued..
