@@ -1,5 +1,7 @@
 ##  SSSLAD: A-Structured-Sparse-Subspace-Learning-Algorithm-for-Anomaly-Detection-in-UAV-Flight-Data
+Structured sparse subspace learning anomaly detection (SSSLAD) algorithm is an online anomaly data sources identification method for UAV flight data 
 
+## Abstract
 Health status monitoring of flight-critical sensors is crucial to the flight safety of unmanned aerial vehicles (UAVs). While many flight data anomaly detection algorithms have been proposed, most do not consider data source information and cannot identify which data sources contribute most to the anomaly, hindering proper fault mitigation. To address this challenge, a structured sparse subspace learning anomaly detection (SSSLAD) algorithm which reformulates anomaly detection as a structured sparse subspace learning problem is proposed.
 
 ## Structured Sparse Subspace learning problem
@@ -19,9 +21,8 @@ We implement SSSLAD with Matlab 2015b and perform all experiments on a laptop co
 
 
 ## References
-SSSLAD was introduced in the journal paper:
+If you used this program in your research work, you should cite the following publication:
 
 Y. F. He , Y Peng, S. J. Wang, D. T. Liu, P. H. W Leong. A Structural Sparse Subspace Learning algorithm for Anomaly Detection in UAV Flight Data. IEEE Trans. Instrum. Meas. Ari. 2017. (Under Review)
 
-Abstract：
-To be continued.....
+This program is provided for research purposes only. Any commercial use is prohibited. If you are interested in a commercial use, please contact the authors. 
