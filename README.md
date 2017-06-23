@@ -26,3 +26,7 @@ If you used this program in your research work, you should cite the following pu
 Y. F. He , Y Peng, S. J. Wang, D. T. Liu, P. H. W Leong. A Structural Sparse Subspace Learning algorithm for Anomaly Detection in UAV Flight Data. IEEE Trans. Instrum. Meas. Ari. 2017. (Under Review)
 
 This program is provided for research purposes only. Any commercial use is prohibited. If you are interested in a commercial use, please contact the authors. 
+
+Yongfu He's Personal Blog: https://yongfuhe2017.github.io/
+
+Yongfu He's Personal Website: https://xriver007.github.io/
