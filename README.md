@@ -21,7 +21,7 @@ We implement SSSLAD with Matlab 2015b and perform all experiments on a laptop co
 
 
 ## References
-If you find the codes useful, I appreciate it very much if you can cite our related paper:
+If you find the code useful, I appreciate it very much if you can cite my related paper:
 
 Y. F. He , Y Peng, S. J. Wang, D. T. Liu, P. H. W Leong. A Structural Sparse Subspace Learning algorithm for Anomaly Detection in UAV Flight Data. IEEE Trans. Instrum. Meas. Ari. 2017. (Under Review)
 
